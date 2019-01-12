@@ -1,4 +1,3 @@
-package csc143.gol;
 /**
  * The is the core of Conway's Game of Life. It is reportred
  * to be the most-commonly implemented "game" in computer science.
