@@ -1,4 +1,3 @@
-package csc143.gol;
 /**
  * Constants for the Game of Life, adapted to fit on
  * a Go board.
